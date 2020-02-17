@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../../code/gmall0826-parent-master/dw-chart/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-chart/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall0826-canal/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall0826-common/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall0826-logger/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall0826-mock/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall0826-publisher/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall0826-realtime/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
